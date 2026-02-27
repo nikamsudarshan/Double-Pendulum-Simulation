@@ -37,7 +37,7 @@ This project is built using Python 3. Follow these steps to set up the environme
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Double-Pendulum-Simulation.git](https://github.com/YOUR_USERNAME/Double-Pendulum-Simulation.git)
+   git clone [https://github.com/nikamsudarshan/Double-Pendulum-Simulation.git](https://github.com/YOUR_USERNAME/Double-Pendulum-Simulation.git)
    cd Double-Pendulum-Simulation
 2. **Install Dependencies:**
    ```bash
