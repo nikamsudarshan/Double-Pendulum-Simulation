@@ -4,7 +4,7 @@
 This repository contains a Python-based computational model of a double pendulum system. The project demonstrates **Chaos Theory**—specifically, how a deterministic system exhibit sensitive dependence on initial conditions.
 
 ## 🚀 Demonstration
-![Double Pendulum Animation](Untitled-2026-02-27_19_49_47-1.mp4)
+![Double Pendulum Animation](Untitled-2026-02-27_19_49_4.gif)
 
 ---
 
